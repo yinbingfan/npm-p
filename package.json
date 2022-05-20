@@ -1,0 +1,12 @@
+{
+  "name": "css-visuall",
+  "version": "0.1.7",
+  "description": "css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bo.fan",
+  "license": "ISC"
+}
+ 
